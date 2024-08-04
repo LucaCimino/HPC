@@ -2,7 +2,9 @@
 
 HPC project, working on the Cineca HPC Infrastructure Galileo100.
 
-**Description** 
+Using **MPI** and **OpenMP**
+
+#### Desciption 
 
 Given a square matrix `A[N]x[N]`, containing N^2 real values belonging to the interval [0, 1]. We define the neighborhood of `A[i][j]` the submatrix of A of size 3x3 which has `A[i][j]` in the central position.
 
